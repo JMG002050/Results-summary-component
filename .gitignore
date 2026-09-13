@@ -1,0 +1,11 @@
+# macOs junk files
+.DS_Store
+**/.DS_Store
+
+# macOS ZIP metadata folder
+__MACOSX/
+
+# folders for myself
+resources/ignore/
+/ignore
+
