@@ -4,7 +4,7 @@ This challenge is part of my journey to master responsive design with CSS and ad
 
 ## Live Preview
 
-[https://jmg002050.github.io/Responsive-layout-03/](https://jmg002050.github.io/Results-summary-component/)
+[https://jmg002050.github.io/Results-summary-component/)
 
 ## 📸 Preview
 
